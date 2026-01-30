@@ -1,0 +1,5 @@
+{
+  "name": "Listening Gap-Fill Grader",
+  "description": "An AI-powered tool to assess student handwriting for listening gap-fill exercises, automatically ignoring crossed-out words and teacher marks.",
+  "requestFramePermissions": []
+}
